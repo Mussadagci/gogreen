@@ -17,6 +17,10 @@ body{
   text-transform: uppercase;
 
 }
+
 .text-green{
   color: var(--mainDark)
+}
+.text-bright{
+  color: var(--mainGreen)
 }
